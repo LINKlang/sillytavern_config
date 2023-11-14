@@ -15,6 +15,6 @@ Claude水秋水族馆(萌新互助群2)：744681691
 
 Claude2.0先行破限组(大群)：704819371
 
-[类脑Discord](https://discord.gg/HWNkueX34q)
+[类脑Discord](https://discord.gg/DnrjFZfbz5)
 
 
