@@ -1,5 +1,7 @@
 **<h1>SillyTavern_config</h1>**
 
+欢迎使用：电脑自动化部署酒馆命令
+
 **使用破限组免费接口**
 
 [如何使用请看文档](https://sqivg8d05rm.feishu.cn/docx/MgyodBPmGoTHOAxqT4nc8yAJnRd#VpGYdo1EDosjycxaB0bc9eiGnWQ)
